@@ -1,6 +1,6 @@
-# Indie Gems Portal
+# Indian Games Portal
 
-# Live Link  [Indie Gems Portal](https://indie-gems-portal.vercel.app/).
+# Live Link  [Indian Games Portal](https://indie-gems-portal.vercel.app/).
 # For Big Screens. Results be like -
 
 ## catogory_searching
@@ -31,7 +31,7 @@ Welcome to Indie Gems Portal, a platform where you can search and discover your 
 
 ## Introduction
 
-Indie Gems Portal is a web application that allows users to search for games based on genres, platforms, release dates, and ratings. It provides a convenient way to explore and find games that match your preferences.
+Indian Games Portal is a web application that allows users to search for games based on genres, platforms, release dates, and ratings. It provides a convenient way to explore and find games that match your preferences.
 
 ## Features
 
